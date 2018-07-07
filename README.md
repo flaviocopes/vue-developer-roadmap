@@ -6,6 +6,8 @@ A fork of the [React Developer Roadmap](https://github.com/adam-golab/react-deve
 
 This is a graph I made with the technologies that will make you a well-rounded developer proficient in Vue.js programming.
 
+Shameless plug: [get my free Vue Handbook](https://vuehandbook.com)
+
 ## Roadmap
 
 ![Roadmap](./roadmap.svg)
