@@ -1,6 +1,6 @@
 # Vue Developer Roadmap
 
-> Roadmap to becoming a Vue developer in 2018
+> Roadmap to becoming a Vue developer in 2019
 
 A fork of the [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap) by Adam Gołąb.
 
